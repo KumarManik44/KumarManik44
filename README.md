@@ -51,6 +51,9 @@
 **Dev Tools**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+**AI Tools**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anysphere](https://img.shields.io/badge/Antigravity-101010?style=for-the-badge&logoColor=white)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=KumarManik44&icon=0&color=0)](https://visitcount.itsvg.in)
