@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔨 I'm currently working on:<br><br>
+🔨 I'm currently working on:<br>
 - Building **Claire** — a voice-first AI agent with persistent memory that remembers your preferences, understands your context, adapts to your tone, and grows with you over time. Not a chatbot. A second brain.<br>
 - Shipping production-grade LLM systems: agentic pipelines, RAG architectures, and real-time voice AI.<br>
 - **SeniorEye** — an AI-powered GitHub repo review tool built on Gemini 2.5 Flash, deployed on Vercel.<br><br>
