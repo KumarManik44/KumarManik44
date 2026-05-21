@@ -3,24 +3,24 @@
 🔨 I'm currently working on:<br><br>
 - Building **Claire** — a voice-first AI agent with persistent memory that remembers your preferences, understands your context, adapts to your tone, and grows with you over time. Not a chatbot. A second brain.<br>
 - Shipping production-grade LLM systems: agentic pipelines, RAG architectures, and real-time voice AI.<br>
-- **SeniorEye** — an AI-powered GitHub repo review tool built on Gemini 2.5 Flash, deployed on Vercel.<br>
+- **SeniorEye** — an AI-powered GitHub repo review tool built on Gemini 2.5 Flash, deployed on Vercel.<br><br>
 
-🚀 I'm looking to collaborate on:<br><br>
+🚀 I'm looking to collaborate on:<br>
 - AI-native products where LLMs are the core, not a feature.<br>
 - Agentic systems, persistent memory architectures, and multi-step reasoning pipelines.<br>
-- High-conviction founders building in the AI space who care about product depth.<br>
+- High-conviction founders building in the AI space who care about product depth.<br><br>
 
-🌱 I'm currently going deep on:<br><br>
+🌱 I'm currently going deep on:<br>
 - LLM optimization: quantization, speculative decoding, and distillation for low-latency inference.<br>
 - Multi-agent orchestration and scalable ML infrastructure design.<br>
-- Voice AI pipeline architecture — STT → LLM → TTS with minimal latency.<br>
+- Voice AI pipeline architecture — STT → LLM → TTS with minimal latency.<br><br>
 
-💬 Ask me about:<br><br>
+💬 Ask me about:<br>
 - Building AI agents with persistent memory from scratch.<br>
 - LLMs, RAG, vector databases, and production-grade agentic systems.<br>
-- Going from zero to deployed — FastAPI, Railway, Vercel, AWS.<br>
+- Going from zero to deployed — FastAPI, Railway, Vercel, AWS.<br><br>
 
-⚡ 5 words that describe me:<br><br>
+⚡ 5 words that describe me:<br>
 - Passionate.<br>
 - Tenacious.<br>
 - Courageous.<br>
